@@ -1803,6 +1803,10 @@ body.overflow-hidden {
     gap: 40px;
   }
 
+  .grid-3-col {
+    grid-template-columns: 1fr;
+  }
+
   .localizacao-top-grid,
   .localizacao-bottom-grid {
     grid-template-columns: 1fr;
